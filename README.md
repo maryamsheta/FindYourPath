@@ -24,4 +24,4 @@ Consists of two tilemaps, one for each algorithm of the following (Breadth-First
 
 #### Future Work: Add The Soundeffects Since As For Now, The Settings Menu Is Useless..Also Fix Any Issues With The Implementation..
 
-#### [Download Find Your Path!](https://drive.google.com/file/d/1M0xEHrUDsga3lhBhV-r69zVnop8kR2Xz/view?usp=share_link)
+#### [Download Find Your Path For PC!](https://drive.google.com/file/d/1M0xEHrUDsga3lhBhV-r69zVnop8kR2Xz/view?usp=share_link)
