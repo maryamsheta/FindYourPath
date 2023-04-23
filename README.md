@@ -1,6 +1,10 @@
 <img src="https://user-images.githubusercontent.com/119558533/233087087-36d11997-ecea-4127-890b-5891dc2f3136.png" width=20% height=20%>
 
-### Two Modes Are In This Simulator/Game
+# [Download Find Your Path For Your PC!](https://drive.google.com/file/d/1M0xEHrUDsga3lhBhV-r69zVnop8kR2Xz/view?usp=share_link)
+
+### Important Note: We Couldn't Upload The Whole Unity Project, So We Uploaded The Scripts Only (The Folder That Contains All The Code)..
+
+#### Two Modes Are In This Simulator/Game
 
 ## Watch Mode:
 
@@ -24,4 +28,3 @@ Consists of two tilemaps, one for each algorithm of the following (Breadth-First
 
 #### Future Work: Add The Soundeffects Since As For Now, The Settings Menu Is Useless..Also Fix Any Issues With The Implementation..
 
-#### [Download Find Your Path For PC!](https://drive.google.com/file/d/1M0xEHrUDsga3lhBhV-r69zVnop8kR2Xz/view?usp=share_link)
