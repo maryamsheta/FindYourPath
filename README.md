@@ -1,7 +1,5 @@
 <img src="https://user-images.githubusercontent.com/119558533/233087087-36d11997-ecea-4127-890b-5891dc2f3136.png" width=20% height=20%>
 
-### Important Note: We Couldn't Upload The Whole Unity Project, So We Uploaded The Scripts Only (The Folder That Contains All The Code)..
-
 ## [Demo & Code Explanation!](https://www.youtube.com/watch?v=15dInZVjiF4)
 ## [View The Project Proposal!](https://drive.google.com/file/d/1wZ8gO4AbDFMvDkMgFRiUeGuBGzF2u8bA/view?usp=share_link)
 ## [Download Find Your Path For Your PC!](https://drive.google.com/file/d/1M0xEHrUDsga3lhBhV-r69zVnop8kR2Xz/view?usp=share_link)
