@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/ChooseMode.unity
+    guid: ebe0519fa13a706498b551819e15dde4
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 7219977d2cb253e45b293c1be03f744e
+  - enabled: 1
+    path: Assets/Scenes/Help.unity
+    guid: 4716d138f9c9a064e87ac0bce5cee33f
+  - enabled: 1
+    path: Assets/Scenes/ChooseThemeWatch.unity
+    guid: 6d3ff4597fbf7674694e5e0a21e8bd5a
+  - enabled: 1
+    path: Assets/Scenes/ChefVsRatWatch.unity
+    guid: 773aef1450c63534f91c0d64b8513126
+  - enabled: 1
+    path: Assets/Scenes/ManVsVirusWatch.unity
+    guid: 8270d4973e0b953498192003ed0d6879
+  - enabled: 1
+    path: Assets/Scenes/RaceBFSDFS.unity
+    guid: bc3a3568a5c877149bb56e513b68e145
+  - enabled: 1
+    path: Assets/Scenes/ProgrammerVsSleep.unity
+    guid: ccdeb2cafdfae684c9dd022c24764c65
+  m_configObjects: {}
